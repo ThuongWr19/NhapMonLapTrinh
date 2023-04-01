@@ -1,0 +1,11 @@
+﻿  chuongtrinh_lab5.cpp
+C:\Users\thuon\Desktop\Code NMLT\Lab5\Lab5\chuongtrinh_lab5.cpp(15,9): error C2086: 'int k': redefinition
+C:\Users\thuon\Desktop\Code NMLT\Lab5\Lab5\chuongtrinh_lab5.cpp(7,9): message : see declaration of 'k'
+C:\Users\thuon\Desktop\Code NMLT\Lab5\Lab5\chuongtrinh_lab5.cpp(42,9): error C2086: 'int h': redefinition
+C:\Users\thuon\Desktop\Code NMLT\Lab5\Lab5\chuongtrinh_lab5.cpp(34,9): message : see declaration of 'h'
+C:\Users\thuon\Desktop\Code NMLT\Lab5\Lab5\chuongtrinh_lab5.cpp(60,9): error C2086: 'int h': redefinition
+C:\Users\thuon\Desktop\Code NMLT\Lab5\Lab5\chuongtrinh_lab5.cpp(34,9): message : see declaration of 'h'
+C:\Users\thuon\Desktop\Code NMLT\Lab5\Lab5\chuongtrinh_lab5.cpp(68,9): error C2086: 'int dai': redefinition
+C:\Users\thuon\Desktop\Code NMLT\Lab5\Lab5\chuongtrinh_lab5.cpp(50,9): message : see declaration of 'dai'
+C:\Users\thuon\Desktop\Code NMLT\Lab5\Lab5\chuongtrinh_lab5.cpp(68,14): error C2086: 'int rong': redefinition
+C:\Users\thuon\Desktop\Code NMLT\Lab5\Lab5\chuongtrinh_lab5.cpp(50,14): message : see declaration of 'rong'
